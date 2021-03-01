@@ -61,12 +61,12 @@
                 </goals>
                 <configuration>
                   <outputDirectory>target/wlp-package</outputDirectory>
-                  <runtimeArtifact>
+                  <!--<runtimeArtifact>
                         <groupId>io.openliberty.beta</groupId>
                         <artifactId>openliberty-runtime</artifactId>
                         <version>21.0.0.3-beta</version>
                         <type>zip</type>
-                    </runtimeArtifact>
+                    </runtimeArtifact>-->
                 </configuration>
               </execution>
             </executions>

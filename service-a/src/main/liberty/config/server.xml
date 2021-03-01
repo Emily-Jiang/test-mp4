@@ -2,7 +2,7 @@
 <server description="${project.name}">
 
     <featureManager>
-        <feature>microProfile-4.0</feature>
+        <feature>microProfile-3.3</feature>
         
         <feature>mpGraphQL-1.0</feature>
         
